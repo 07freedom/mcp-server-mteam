@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "mcp-server-mteam"
-version = "0.1.0"
+version = "0.1.1"
 description = "MCP server for M-Team (馒头) private torrent tracker - search, detail, and download"
 readme = "README.md"
 license = "MIT"
